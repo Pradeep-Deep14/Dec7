@@ -7,3 +7,5 @@ def outer_function():
     x=12+x
     return x
 print(outer_function())
+
+#26
